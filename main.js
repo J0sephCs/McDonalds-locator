@@ -95,7 +95,7 @@ function map(){
         };
     });
 
-    const apiKey= 'AIzaSyCl-9usjv7kG6KdIcbW6PYRNCPFvolILXo';
+    const apiKey= 'apiKey';
     const infoWindow= new google.maps.InfoWindow();
 
     map.data.addListener('click', (event)=> {
